@@ -214,6 +214,7 @@ img{
 }
 .home__img{
   position: absolute;
+  border-radius: 5rem;
   right: 0;
   bottom: 0;
   width: 295px;
@@ -245,7 +246,7 @@ img{
 }
 .about__img img{
   width: 200px;
-  border-radius: .5rem;
+  border-radius: 3rem;
 }
 
 /* ===== SKILLS =====*/
